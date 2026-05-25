@@ -2,17 +2,54 @@
 
 Desarrollador web autodidacta enfocado principalmente en PHP, MySQL y mantenimiento de sistemas web.
 
-Tengo experiencia trabajando con proyectos legacy, refactorización, migraciones de versiones y mejoras progresivas en aplicaciones existentes. Me interesa escribir código mantenible, seguro y claro, priorizando la compatibilidad y la evolución ordenada de los proyectos.
+Trabajo principalmente con proyectos legacy, refactorización, compatibilidad entre versiones y mejoras progresivas en aplicaciones existentes.
+
+---
 
 ## Tecnologías
 
-* PHP
-* MySQL
-* JavaScript
-* HTML / CSS
-* Git (básico)
-* React (básico)
-* Astro (básico)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+## Proyectos Destacados
+
+### PHPost
+
+Proyecto orientado a mantenimiento, mejoras y modernización progresiva de una plataforma PHP legacy.
+
+* Compatibilidad con PHP 8
+* Refactorización progresiva
+* Mejoras frontend/backend
+* Organización y mantenimiento de código
+
+🔗 Repositorio:
+[joelmiguelvalente/PHPost](https://github.com/joelmiguelvalente/PHPost/)
+
+🌐 Demo:
+[PHPost](https://phpost.infinityfreeapp.com/)
+
+---
+
+### ZCode v4
+
+Configuración y estandarización de entorno de desarrollo enfocado en calidad de código y estructura.
+
+* PSR12
+* PHPCS
+* Organización de proyecto
+* Reglas personalizadas
+
+🔗 Repositorio:
+[joelmiguelvalente/zcode-v4](https://github.com/joelmiguelvalente/ZCodeV4)
+
+🌐 Demo:
+[ZCode V4](https://zcodev.alwaysdata.net/)
+
+---
 
 ## Intereses
 
@@ -20,33 +57,12 @@ Tengo experiencia trabajando con proyectos legacy, refactorización, migraciones
 * Arquitectura backend
 * Refactorización
 * Compatibilidad PHP
-* Optimización de proyectos legacy
 * Seguridad web
-* UI simples y funcionales
+* Optimización de proyectos legacy
 
-## Actualmente
-
-* Mejorando proyectos PHP existentes
-* Aprendiendo mejores prácticas de arquitectura y organización
-* Trabajando en estructurar proyectos y portfolio de forma más profesional
+---
 
 ## Contacto
 
 * GitHub: https://github.com/joelmiguelvalente
 * Email: [joelmiguelvalente@gmail.com](mailto:joelmiguelvalente@gmail.com)
-
-
-<!--
-**joelmiguelvalente/joelmiguelvalente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
