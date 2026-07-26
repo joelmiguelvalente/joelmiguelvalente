@@ -27,7 +27,7 @@ Proyecto orientado a mantenimiento, mejoras y modernización progresiva de una p
 * Organización y mantenimiento de código
 
 🔗 Repositorio:
-[joelmiguelvalente/PHPost](https://github.com/joelmiguelvalente/PHPost/)
+[joelmiguelvalente/PHPost](https://github.com/DevBroken/PHPost/)
 
 🌐 Demo:
 [PHPost](https://phpost.infinityfreeapp.com/)
@@ -44,7 +44,7 @@ Configuración y estandarización de entorno de desarrollo enfocado en calidad d
 * Reglas personalizadas
 
 🔗 Repositorio:
-[joelmiguelvalente/zcode-v4](https://github.com/joelmiguelvalente/ZCodeV4)
+[joelmiguelvalente/zcode-v4](https://github.com/DevBroken/ZCodeV4)
 
 🌐 Demo:
 [ZCode V4](https://zcodev.alwaysdata.net/)
