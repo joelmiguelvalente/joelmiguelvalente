@@ -17,7 +17,7 @@ Trabajo principalmente con proyectos legacy, refactorización, compatibilidad en
 
 ## Proyectos Destacados
 
-### PHPost
+### PHPost (_No para producción_)
 
 Proyecto orientado a mantenimiento, mejoras y modernización progresiva de una plataforma PHP legacy.
 
@@ -34,7 +34,7 @@ Proyecto orientado a mantenimiento, mejoras y modernización progresiva de una p
 
 ---
 
-### ZCode v4
+### ZCode v4 (_No para producción_)
 
 Configuración y estandarización de entorno de desarrollo enfocado en calidad de código y estructura.
 
@@ -65,4 +65,4 @@ Configuración y estandarización de entorno de desarrollo enfocado en calidad d
 ## Contacto
 
 * GitHub: https://github.com/joelmiguelvalente
-* Email: [joelmiguelvalente@gmail.com](mailto:joelmiguelvalente@gmail.com)
+* Email: [portfoliomiguel92@gmail.com](mailto:portfoliomiguel92@gmail.com)
